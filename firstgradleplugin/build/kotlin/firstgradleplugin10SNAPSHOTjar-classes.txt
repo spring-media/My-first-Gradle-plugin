@@ -1,0 +1,1 @@
+/Users/skrawczy/projects/gradlePlugin/firstgradleplugin/build/classes/kotlin/main/FirstGradlePlugin$apply$task$1.class:/Users/skrawczy/projects/gradlePlugin/firstgradleplugin/build/classes/kotlin/main/FirstGradlePlugin.class
