@@ -1,4 +1,4 @@
-# first-gradle-plugin
+# My first Gradle plugin
 This repository is providing code examples for the article series "My first Gradle plugin" on Medium.com
 
 In each branch you can find two folders:
