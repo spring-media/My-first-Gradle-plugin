@@ -8,4 +8,4 @@ In each branch you can find two folders:
 The respective branches cover different topics of the series:
 - gradle-plugin-version-01 - Implementation of a simple Gradle plugin
 - gradle-plugin-version-02 - Implementation of a task class and an extension
-- gradle-plugin-version-02 - Implementation of tests
+- gradle-plugin-version-03 - Implementation of tests
