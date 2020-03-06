@@ -4,7 +4,7 @@ import org.gradle.api.Project
 class FirstGradlePlugin : Plugin<Project> {
 
     override fun apply(project: Project) {
-        val task = project.tasks.create("sayHello") {
+        project.tasks.create("sayHello") {
 
             println("Hello World!")
 
